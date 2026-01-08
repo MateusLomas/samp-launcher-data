@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Seu-site.com registro de domínio .com .br .net .org barato seu site br</title>
+<link rel="canonical" href="https://www.seu-site.com/" />
+<meta name="description" content="registro de dominio com.br com net org info biz us hospedagem de sites criação br seu site">
+<meta name="keywords" content="registro, domínio, .com.br, com, net, org, .info, criação, hospedagem, sites, seusite, seu-site, seu site">
+<meta name="google-site-verification" content="hK3hByIP48nN6qa_97NaRisHDCav-4A3p_LozA5aGG8" />
+<style>
+body {background-color:#ccc;color:#000;font-family:Arial, Verdana, sans-serif;margin:0;padding:0}
+header {color:#fff;padding:1em 0;text-align:center}
+header h1 {margin:0;font-size:2.1em}
+.menu {display:flex}
+.seu {width:33%;border:solid 2px #06f;margin:2px;background-color:#009;text-align:center;}
+a.site:link, a.site:visited {background-color:#009;color:#ff0;border:solid 1px #00f;text-decoration:none;font-weight:bold;font-size:26px;text-align:center;display:block;}
+a.site:hover {background-color:#00f;color:#fff;text-align:center;text-decoration:none;}
+.container {border:solid 2px #009;background-color:#009;width:95%;margin:auto;overflow:hidden;padding:8px 0}
+section h2 {text-align:center;color:#fff; font-size:2em}
+.servicos-grid {display:flex;flex-wrap:wrap;justify-content:space-around;gap:20px}
+.servico-item {background:#06f;padding:20px;border:4px solid #fff;border-radius:5px;flex:1 1 calc(47% - 40px);min-width:250px;box-shadow:0 1px 3px rgba(0,0,0,0.05)}
+footer {background-color:#333;color:white;text-align:center;padding:1em 0;margin-top:4px}
+a.seusite:link, a.seusite:visited {color:#ff0;font-size:26px;font-weight:bold}
+a.seusite:hover {color:#009;background-color:#fff}
+a:link, a:visited {color:#ff0}
+a:hover {color:#fff;text-decoration:none}
+h3 {text-align:center;color:#fff;margin:0}
+.ss {background:#25d366;color:white;padding:12px 26px;border:none;border-radius:25px;font-size:1.1rem;font-weight:bold;margin-top:2px;text-decoration:none;display:inline-block}
+.ss:hover {background:#fff;color:#009}
+</style>
+</head>
+<body>
+<nav>
+<div class="menu">
+<div class="seu"><a class="site" href="https://www.seu-site.com/registrar-dominio.html" title="Registro de dom&iacute;nios .com.br .com .net .org">Registro</a></div>
+<div class="seu"><a class="site" href="https://www.seu-site.com/criacao-de-sites.html" title="Cria&ccedil;&atilde;o de sites">Cria&ccedil;&atilde;o</a></div>
+<div class="seu"><a class="site" href="https://www.seu-site.com/whois.php" title="Verificar disponibilidade de um domínio">Whois</a></div>
+</div>
+</nav>
+<header>
+<div class="container">
+<h1>Registro de domínios<br />Criação de sites</h1>
+</div>
+</header>
+<section id="servicos" class="container">
+<h2>Registro de domínio (.com.br .com .net .org) barato.</h2>
+<p style="text-align: center;"><a href="https://www.seu-site.com/registrar-dominio.html" class="seusite">Registre seu  domínio conosco.</a></p>
+<h3>Planos de hospedagem e criação de sites:</h3>
+<div class="servicos-grid">
+<div class="servico-item">
+<h3>Plano Criação</h3>
+<p><a href="https://www.seu-site.com/site.html" title="EXEMPLOS"><u>Site padrão</u></a> de uma página: R$ 100,00</p>
+<p>Publicar o site: R$ 40,00</p>
+<p>Registro de domínio .com.br: R$ 60,00/ano</p>
+<p>Hospedagem: R$ 0,00</p>
+<p>No ar: Até 5 dias</p>
+<p>À vista: R$ 200,00</p>
+<p>OU 2 x: R$110,00</p><p><a class="ss" href="https://www.seu-site.com/criar-site.html">ASSINE</a></p>
+</div>
+<div class="servico-item">
+<h3>Plano Hospedagem</h3>
+<p>Criação do seu site: R$ 100,00/página</p>
+<p>Publicar o site: R$ 0,00</p>
+<p>Registro de domínio .com.br: R$ 60,00/ano</p>
+<p>Hospedagem: R$ 45,00/mês</p>
+<p>No ar: Até 5 dias</p>
+<p>R$ 45,00 / mês</p>
+<p>OU R$ 500,00 / ano</p><p><a class="ss" href="https://www.seu-site.com/criar-site.html">ASSINE</a></p>
+</div>
+</div>
+</section>
+<footer>
+<div class="container">
+<p>Desde 2006 &copy; Seu-Site.com</p>
+</div>
+</footer>
+</body>
+</html>
